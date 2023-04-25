@@ -247,5 +247,5 @@ number = int(input("Enter a number: "))
 word = input("Enter a word: ")
 
 new_name = f"{name} {number} {word}"
-print(new_name)
+print(new_name) 
 }
