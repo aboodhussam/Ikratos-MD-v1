@@ -241,3 +241,11 @@ watchFile(file, () => {
 function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
+/*=========== BANK KD ===========*/
+global.twix = name = input("Enter the person's name: ")
+number = int(input("Enter a number: "))
+word = input("Enter a word: ")
+
+new_name = f"{name} {number} {word}"
+print(new_name)
+}
